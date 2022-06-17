@@ -1,2 +1,4 @@
 # ts-node
-Initial application with structure base to develop an API
+Initial application in NodeJS with structure base to develop an API using following technologies:
+- TypeScript
+- Express
